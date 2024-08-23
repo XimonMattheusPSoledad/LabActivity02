@@ -4,6 +4,6 @@
 
 Click the icons to learn more about its respective sport
 
-My Time Table
+[My Time Table](https://github.com/XimonMattheusPSoledad/LabActivity02/blob/main/Files/Time%20Table.jpg)
 
 Click the link above to view my weekly time table
